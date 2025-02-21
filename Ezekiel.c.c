@@ -1,4 +1,7 @@
-
+/*
+    NAME: EZEKIEL WANGILA
+    ADM NO: D33-2585-2023
+    */
 #include<stdio.h>
 
 int main(){
