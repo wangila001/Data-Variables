@@ -1,7 +1,7 @@
 /*
 do-while
-Author:AMOS KIPNGENOH MUTAI
-REG NO:D33-4506-2023
+Author:Ezekiel wangila 
+REG NO:D33-2585-2023
 Version:1
 Date:10-03-2025
 */
