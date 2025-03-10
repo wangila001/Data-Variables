@@ -1,7 +1,7 @@
 /*
-For
-Author:AMOS KIPNGENOH MUTAI
-Reg No:D33-4506-2023
+For loop
+Author:Ezekiel wangila
+Reg No:D33-2585-2023
 Version:1
 Date:10-03-2023
 */
